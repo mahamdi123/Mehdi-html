@@ -1,0 +1,12 @@
+<html>
+	<head>
+	      <title>home</title>
+		  <script>
+				alert("hello there");
+		  </script>
+	</head>
+   <body>
+   
+   
+   </body>
+</html>

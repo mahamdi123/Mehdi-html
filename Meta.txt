@@ -1,0 +1,8 @@
+<html>
+	<head>
+		<title>Home</title>
+		<meta charset="UTF-8"/>
+			  name="game"		description="my first game"
+			  name="keywords"	content="HTML	Tutorial	Sample"
+			  name="author"		content="Mehdi Hamdi"
+			  http-equiv="refresh" content="30"/>

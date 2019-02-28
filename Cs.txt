@@ -1,0 +1,14 @@
+<html>
+	<head>
+		<link rel="stylesheet" href="mystyles.css"/>
+	</head>
+		<body>
+			<p> I came and I saw
+				the uncharted
+			</p>
+		<div>
+			<p> You saw me last night
+				at the casino
+			</p>
+		</div>
+			

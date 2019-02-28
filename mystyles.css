@@ -1,0 +1,30 @@
+body{
+	background-color:red;
+}
+#PU{
+	color:yellow;
+	font-size:80px;
+}
+.A{
+	background-color:blue;
+	font-size:20;
+	border:1;
+	border-color:black;
+	border-style:double;
+}
+.B{
+	background-color:white;
+	font-size:50;
+	border:1;
+	border-color:black;
+	border-style:double;
+}
+.C{
+	background-color:yellow;
+	font-size:20;
+	border:1;
+	border-color:black;
+	border-style:double;
+}
+
+	

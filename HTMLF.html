@@ -1,0 +1,79 @@
+<!doctype html>
+	<html>
+		<head>
+			<title> My Page</title>
+				<link rel= "stylesheet" href= "mystyles.css"/>
+		</head>
+			<body>
+				<form>
+					<div>
+						<TABLE>
+							<tr>
+								<td> Firstname:</td>
+					<td><input type="name" required/>
+					</td>
+				</tr>
+				<tr>
+					<td>Lastname:</td>
+					<td><input type="name" required/>
+				</tr>
+				<tr>
+					<td><input type="submit"/>	
+				</tr>
+				<tr>
+					<td>
+						<input type="radio" checked
+								name="gender"
+								value="male">male</input>
+						<input type="radio"
+								name="gender" 
+								value="female">female</input>
+						<input type="radio" 
+								name="grades"
+								value="other">other</input>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<select name="city" size="5" multiple/> 
+								<option value="Reston">Reston</option> 
+								<option value="Fairfax">Fairfax</option>
+								<option value="NYC">NYC</option>
+						</select>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<select name="cars" size "5" multiple/>
+								<option value="Mustang">Mustang</option>
+								<option value="Camaro">Camaro</option>
+						</select>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<input list="Browsers">
+							<datalist id="Browsers">
+								<option value="chrome"/>
+								<option value="edge"/>
+							</datalist>
+						</input>
+					</td>
+				</tr>
+				<tr>
+					<td> 
+						<input type="number"
+								name="Mart"
+								min="0"
+								max="100"
+								step="10"
+								value="30"/>
+					</td>
+				</tr>
+			</table>
+		  <button type="button" onclick="alert('Hello there!');"
+				  name="btn Hello">Click Me!
+		</div>
+	</form>
+   </body>
+</!doctype html>
